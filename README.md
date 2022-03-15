@@ -1,24 +1,24 @@
 
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  
   Tenho Dupla nacionalidade - Brasil / Portugal 
-  
 Cursei até o 3º semestre no curso de Tecnologia em Análise e Desenvolvimento de Sistemas no ano de 2011. 
 Atualmente estou obtendo novos conhecimentos em Programação em Front-End através do DEVCLUBE - Bootcamp intensivo de programação do Rodolfo Mori, onde tenho conhecimento e projetos em HTML, CSS, Javascript e com repositórios no GitHub e aprendendo novas tecnologias. 
-<p align="le
-          Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong></p>
-p align="left">
-Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p>
+
 <p align="left">
 </p>
 
+<p align="left">
+ 
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://www.linkedin.com/in/henrique-leonardo-881b10231/=style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 

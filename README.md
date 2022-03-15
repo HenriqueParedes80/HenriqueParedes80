@@ -5,16 +5,12 @@
   
 Cursei até o 3º semestre no curso de Tecnologia em Análise e Desenvolvimento de Sistemas no ano de 2011. 
 Atualmente estou obtendo novos conhecimentos em Programação em Front-End através do DEVCLUBE - Bootcamp intensivo de programação do Rodolfo Mori, onde tenho conhecimento e projetos em HTML, CSS, Javascript e com repositórios no GitHub e aprendendo novas tecnologias. 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
+<p align="le
+          Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong></p>
+p align="left">
+Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
 </p>
-
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">

@@ -8,7 +8,7 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
 </p>
 
 <p align="left">
-</p>
+</p> 
 
 <p align="left">
  

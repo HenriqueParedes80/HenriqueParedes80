@@ -52,7 +52,7 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Henrique Paredes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-paredes-66171122b/)](https://www.linkedin.com/in/henrique-paredes-66171122b/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paredescontato@gmail.com)](mailto:paredescontato@gmail.com)
+[![Linkedin: Henrique Paredes](https://img.shields.io/badge/-HenriqueParedes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-paredes-66171122b/)](https://www.linkedin.com/in/henrique-paredes-66171122b/)
+[![Gmail Badge](https://img.shields.io/badge/paredescontato@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paredescontato@gmail.com)](mailto:paredescontato@gmail.com)
 
 

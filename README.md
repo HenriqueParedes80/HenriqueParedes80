@@ -5,7 +5,24 @@
 
   Tenho Dupla nacionalidade - Brasil / Portugal   
 Cursei até o 3º semestre no curso de Tecnologia em Análise e Desenvolvimento de Sistemas no ano de 2011. 
-Atualmente estou obtendo novos conhecimentos em Programação em Front-End através do DEVCLUBE - Bootcamp intensivo de programação do Rodolfo Mori, onde tenho conhecimento e projetos em HTML, CSS, Javascript e com repositórios no GitHub e aprendendo novas tecnologias. 
+Atualmente estou obtendo novos conhecimentos em Programação em Front-End através do DEVCLUBE - Bootcamp intensivo de programação do Rodolfo Mori, onde tenho conhecimento e projetos em CSS, Javascript e com repositórios no GitHub e aprendendo novas tecnologias.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ <br>
+ <br>
+  **Ferramentas de Desenvolvimento** <br>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  <br>
+  
+**DevOps** <br>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  <br>
+  
 </p>
 
 <p align="left">
@@ -28,4 +45,18 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
 
   <a href="https://www.instagram.com/?hl=pt-br" target="_blank" rel="noopener noreferrer" alt="Instagram" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <br>
+  <br>
+  <a href="https://github.com/HenriqueParedes80">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
 </p>  

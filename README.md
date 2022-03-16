@@ -47,6 +47,15 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
   <br>
   <br>
+  
+  <br/>
+
+<a href="https://github.com/VanessaSwerts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
+
  
 </p>  
 

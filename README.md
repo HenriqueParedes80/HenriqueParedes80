@@ -2,7 +2,8 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-  Tenho Dupla nacionalidade - Brasil / Portugal 
+
+  Tenho Dupla nacionalidade - Brasil / Portugal   
 Cursei até o 3º semestre no curso de Tecnologia em Análise e Desenvolvimento de Sistemas no ano de 2011. 
 Atualmente estou obtendo novos conhecimentos em Programação em Front-End através do DEVCLUBE - Bootcamp intensivo de programação do Rodolfo Mori, onde tenho conhecimento e projetos em HTML, CSS, Javascript e com repositórios no GitHub e aprendendo novas tecnologias. 
 </p>

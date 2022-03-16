@@ -19,10 +19,10 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
   <a href="https://www.linkedin.com/in/henrique-paredes-66171122b/" alt="Linkedin">  
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="#" alt="WhatsApp">
+  <a href="https://web.whatsapp.com/" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="#" alt="Facebook">
+  <a href="https://www.facebook.com/?ref=tn_tnmn" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
   <a href="https://www.instagram.com/?hl=pt-br" target="_blank" rel="noopener noreferrer" alt="Instagram" alt="Instagram">

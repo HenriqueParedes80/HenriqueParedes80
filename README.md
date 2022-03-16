@@ -52,7 +52,7 @@ Atualmente estou obtendo novos conhecimentos em Programação em Front-End atrav
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Henrique Paredes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-paredes-66171122b/)](https://www.linkedin.com/in/henrique-paredes-66171122b/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paredescontato@gmail.com)](mailto:paredescontato@gmail.com)
-[![GitHub HenriqueParedes80]( https://img.shields.io/github/followers/HenriqueParedes80?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: HenriqueParedes](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-paredes-66171122b/)](https://www.linkedin.com/in/henrique-paredes-66171122b/)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=paredescontato@gmail.com)](paredescontato@gmail.com)
+[![GitHub HenriqueParedes80]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
